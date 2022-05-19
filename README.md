@@ -1,9 +1,13 @@
-# Hi there, I'm Figo
+## Hi there, I'm Figo
 
-## I'm student in Dian Nuswantoro University
-### Project in University :
-- Build Game Kulinary Blast with Unity
-- Build Food Delivery with java language in Android Studio
+- 🔭 I'm currently studying for a bachelor's degree at Dian Nuswantoro University
+- 📫 How to reach me: krisnafirdaus@gmail.com
+- 🌱 Project in University :
+    - Build Game Kulinary Blast with Unity
+    - Build Food Delivery with java language in Android Studio
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=figs24&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="figs24 github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figs24&layout=compact&theme=buefy&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figs24&layout=compact&theme=radical&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figs24&show_icons=true&theme=radical&border_color=141E61)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=figs24&theme=radical&border=141E61)](https://git.io/streak-stats)
