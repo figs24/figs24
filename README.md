@@ -1,7 +1,7 @@
 ## Hi there, I'm Figo
 
 - 🔭 I'm currently studying for a bachelor's degree at Dian Nuswantoro University
-- 📫 How to reach me: krisnafirdaus@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/muhammad-figo-mahendra-a13897226/
 - 🌱 Project in University :
     - Build Game Kulinary Blast with Unity
     - Build Food Delivery with java language in Android Studio
